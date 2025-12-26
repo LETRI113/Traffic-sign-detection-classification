@@ -66,12 +66,12 @@ All techniques are based on classical computer vision and image processing.
 
 🗂️ Project Structure
 
-Digital_Image_Processing_Final/
-│
-├── processing.ipynb        # Main notebook implementing the processing pipeline
-├── sign_templates/         # Template images for traffic sign classification
-├── Report.pdf              # Project report (methodology and results)
-├── README.md               # Project documentation
+  Digital_Image_Processing_Final/
+  │
+  ├── processing.ipynb        # Main notebook implementing the processing pipeline
+  ├── sign_templates/         # Template images for traffic sign classification
+  ├── Report.pdf              # Project report (methodology and results)
+  ├── README.md               # Project documentation
 
 🛠️ Technologies Used
 
